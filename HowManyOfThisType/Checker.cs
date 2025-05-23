@@ -2,7 +2,7 @@
 
 namespace HowManyOfThisType
 {
-    public class Checker
+    public static class Checker
     {
 
         public static int HowManyOfType<T>(IEnumerable items)
